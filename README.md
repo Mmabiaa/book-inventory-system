@@ -1,4 +1,4 @@
-# Next.js Book Inventory
+# Book Inventory System
 
 Demo: https://next-books-search.vercel.app
 
